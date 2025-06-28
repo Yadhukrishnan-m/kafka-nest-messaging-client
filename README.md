@@ -33,6 +33,7 @@ src/
 
 environmental variables 
 
+## 🌐 Environment Variables Setup
 
 
 VITE_CLIENT_A_URL=CLIENT_A_URL
